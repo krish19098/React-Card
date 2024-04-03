@@ -1,5 +1,8 @@
+/* Card.css */
+
 .price-cards {
   display: flex;
+  flex-wrap: wrap; /* Allow cards to wrap to the next row */
   justify-content: center;
   margin-top: 50px;
 }
